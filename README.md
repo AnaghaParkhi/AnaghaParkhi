@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anaghaparkhi&label=Profile%20views&color=0e75b6&style=flat" alt="anaghaparkhi" /> </p>
 
-- 🔭 I’m currently working on **Excel Advance Analytical Functions**
+- 🔭 **
 
-- 🌱 I’m currently learning **D3.js**
+- 🌱 **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
