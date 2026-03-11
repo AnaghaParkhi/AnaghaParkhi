@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am a Business Analytics professional with a Master’s degree in Business <br>Analytics, passionate about turning data into meaningful insights that<br> support business decisions. I enjoy working at the intersection of <br>business, data, and technology to solve real-world problems. Currently, <br>I am focusing on building my expertise in Business Intelligence and CRM<br> analytics, while exploring opportunities as a Business Analyst / BI Analyst,<br> and expanding my knowledge in the Salesforce ecosystem.<br><br>Tools & Technologies: SQL | Power BI | Tableau | Excel | Salesforce
 
-
+# My Portfolio: https://anaghaparkhi.github.io/MyPortfolio/
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anaghaparkhi/) 
 
