@@ -1,4 +1,9 @@
-## Hi there, I'm Anagha Parkhi 👋
+<div align="center">
+
+# 👋 Hi, I'm Anagha Parkhi  
+<!-- #### 🌟 Data Analyst | BI Analyst | Turning Data into Actionable Insights  -->
+---
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst;Business+Analyst" alt="Typing SVG" />
@@ -14,18 +19,43 @@
   <a href="https://github.com/AnaghaParkhi/Resume"><img src="https://img.shields.io/badge/Resume-00A1E0?style=for-the-badge"></a>
 </p>
 
-### 🚀 About Me 
-  🛡️I am an MSBA graduate and CSM-certified Business Intelligence Analyst with 5+ years of experience delivering data-driven insights and analytics solutions. Skilled in building end-to-end data pipelines, including data ingestion, ETL/ELT processes, star-schema data modeling, and Power BI semantic models to enable reliable reporting and real-time business visibility. Proficient in SQL, KQL, Power BI, Tableau, and Excel, with experience transforming complex datasets into clear dashboards and actionable insights for leadership. Knowledge of AI-driven analytics and machine learning concepts to enhance predictive insights and decision-making. Experienced in Agile/Scrum environments, collaborating with cross-functional stakeholders to translate business requirements into scalable data solutions and deliver projects with measurable outcomes.
+#### 🛡️ About Me 
 
-### 🌱 Currently Learning
-   Expanding skills in Cloud Data Platforms and Databricks, focusing on modern data engineering workflows and scalable analytics pipelines.
-   Exploring AI/ML integration with cloud-based analytics solutions to support advanced data processing and intelligent business insights.
+#### MSBA graduate and CSM-certified Business Intelligence Analyst with 5+ years of experience delivering data-driven insights.  
+Skilled in SQL, KQL, Power BI, Tableau, and Excel, I build end-to-end data workflows, star-schema models, and dashboards for real-time business visibility.  
+Experienced in Agile/Scrum environments, I collaborate with stakeholders to turn complex data into actionable insights, leveraging AI and ML for predictive analytics.
 
-### 🔭 Currently Working On
-  1. Sales Analysis – End-to-end analytics to uncover trends, KPIs, and actionable insights for revenue growth.
-  2. Customer Segmentation – Building clusters using behavioral and demographic data to improve targeting and personalization.
-  3. Product Sales Trend – Tracking product performance over time to guide inventory and marketing decisions.
-  4. HR Attrition Analysis – Analyzing employee data to identify factors affecting attrition and support retention strategies.
+---
+
+#### 🌱 Currently Learning  
+
+#### Currently enhancing skills in cloud data platforms and Databricks, focusing on scalable data pipelines and modern data engineering practices, while exploring AI/ML for advanced analytics.
+
+---
+
+#### ⚙️ Technical Skills  
+
+ - **💻 Programming & Analysis:** Python, SQL, Pandas, NumPy, Matplotlib, Seaborn, Excel 
+ - **📊 BI & Visualization:** Power BI, Tableau, KPI Development, Dashboarding, Reporting Automation   
+ - **🤖 Machine Learning:** Regression, Classification, Clustering (Scikit-learn), AI/ML Concepts 
+ - **🧠 Emerging Skills:** Generative AI, Data Engineering Concepts 
+
+---
+
+#### 🚀 Featured Projects  
+
+ - **🧩 Customer Churn Analysis Dashboard** – Interactive Power BI dashboard to analyze churn trends and improve retention strategies.  
+- **ER Healthcare Analysis** – Analyzed hospital data to uncover trends and optimize operations.  
+- **🌍 Worldwide Energy Consumption Analysis** – Explored global energy usage patterns and visualized insights using Python.  
+- **HR Analytics Dashboard** – Examined employee data for attrition, performance, and workforce trends.  
+- **Walmart Sales Analysis** – Identified sales trends, seasonality, and actionable business insights.
+
+---
+#### 📫 Connect With Me
+💼 <a href="https://www.linkedin.com/in/anaghaparkhi/">**LinkedIn**<a>  | 🌐<a href="https://anaghaparkhi.github.io/MyPortfolio/">**Portfolio**</a>
+ | 💻<a href="https://github.com/AnaghaParkhi">**GitHub**</a>  | 📧<a href="anagha.parkhi@outlook.com">**Email**</a>  | ✍️ <a href="">**Medium**</a> 
+
+---
 
 ### 💻 Tech Stack:
 #### Data Analysis & Visualization
