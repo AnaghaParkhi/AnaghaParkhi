@@ -1,15 +1,13 @@
 <div align="center">
-
+  
 # 👋 Hi, I'm Anagha Parkhi  
 <!-- #### 🌟 Data Analyst | BI Analyst | Turning Data into Actionable Insights  -->
----
-</div>
 
-<div align="center">
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst;Business+Analyst" alt="Typing SVG" />
   </div>
 <br>
-
+<!--
 <p align="center">
   <a href="https://linkedin.com/in/anaghaparkhi"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:anagha.parkhi25@outlook.com"><img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail"></a>
@@ -17,15 +15,12 @@
   <a href="https://medium.com/@anaghapathak2008"><img src="https://img.shields.io/badge/Medium-00A1E0?style=for-the-badge&logo=Medium"></a>
   <a href="https://anaghaparkhi.github.io/MyPortfolio/"><img src="https://img.shields.io/badge/Portfolio-00A1E0?style=for-the-badge&logo=AP"></a>
   <a href="https://github.com/AnaghaParkhi/Resume"><img src="https://img.shields.io/badge/Resume-00A1E0?style=for-the-badge"></a>
-</p>
+</p> -->
 
 #### 🛡️ About Me 
 
-#### MSBA graduate and CSM-certified Business Intelligence Analyst with 5+ years of experience delivering data-driven insights.  
-Skilled in SQL, KQL, Power BI, Tableau, and Excel, I build end-to-end data workflows, star-schema models, and dashboards for real-time business visibility.  
-Experienced in Agile/Scrum environments, I collaborate with stakeholders to turn complex data into actionable insights, leveraging AI and ML for predictive analytics.
+#### MSBA graduate and CSM-certified Business Intelligence Analyst with 5+ years of experience delivering data-driven insights. Skilled in SQL, KQL, Power BI, Tableau, and Excel, I build end-to-end data workflows, star-schema models, and dashboards for real-time business visibility.  
 
----
 
 #### 🌱 Currently Learning  
 
@@ -35,20 +30,20 @@ Experienced in Agile/Scrum environments, I collaborate with stakeholders to turn
 
 #### ⚙️ Technical Skills  
 
- - **💻 Programming & Analysis:** Python, SQL, Pandas, NumPy, Matplotlib, Seaborn, Excel 
- - **📊 BI & Visualization:** Power BI, Tableau, KPI Development, Dashboarding, Reporting Automation   
+ - **💻 Programming & Analysis:** Python, SQL, Excel
+ - **📊 BI & Visualization:** Power BI, Tableau, Reporting Automation   
  - **🤖 Machine Learning:** Regression, Classification, Clustering (Scikit-learn), AI/ML Concepts 
- - **🧠 Emerging Skills:** Generative AI, Data Engineering Concepts 
-
+ - **🧠 Emerging Skills:** Generative A
+   
 ---
 
 #### 🚀 Featured Projects  
 
  - **🧩 Customer Churn Analysis Dashboard** – Interactive Power BI dashboard to analyze churn trends and improve retention strategies.  
-- **ER Healthcare Analysis** – Analyzed hospital data to uncover trends and optimize operations.  
+- **🩺 ER Healthcare Analysis** – Analyzed hospital data to uncover trends and optimize operations.  
 - **🌍 Worldwide Energy Consumption Analysis** – Explored global energy usage patterns and visualized insights using Python.  
-- **HR Analytics Dashboard** – Examined employee data for attrition, performance, and workforce trends.  
-- **Walmart Sales Analysis** – Identified sales trends, seasonality, and actionable business insights.
+- **👥 HR Analytics Dashboard** – Examined employee data for attrition, performance, and workforce trends.  
+- **🛒 Walmart Sales Analysis** – Identified sales trends, seasonality, and actionable business insights.
 
 ---
 #### 📫 Connect With Me
