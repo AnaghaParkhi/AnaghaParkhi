@@ -1,10 +1,8 @@
 <div align="center">
   
 # 👋 Hi, I'm Anagha Parkhi  
- #### 🌟 DevOps & Cloud Engineer | Building data pipelines and transforming raw data into reliable, analytics-ready datasets for business insights.
-
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=DevOps;Cloud+Engineer" alt="Typing SVG" />
+ <!--#### 🌟 DevOps & Cloud Engineer | Building data pipelines and transforming raw data into reliable, analytics-ready datasets for business insights. -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Engineer;Data+Analyst" alt="Typing SVG" />
   </div>
 <br>
 <!--
@@ -17,15 +15,11 @@
   <a href="https://github.com/AnaghaParkhi/Resume"><img src="https://img.shields.io/badge/Resume-00A1E0?style=for-the-badge"></a>
 </p> -->
 
-#### 💫 About Me 
-
+#### 💫 About Me  
 #### MSBA graduate and CSM-certified Business Intelligence Analyst with 5+ years of experience delivering data-driven insights. Skilled in SQL, KQL, Power BI, Tableau, and Excel, I build end-to-end data workflows, star-schema models, and dashboards for real-time business visibility.  
 
-
 #### 🌱 Currently Learning  
-
 #### Currently enhancing skills in cloud data platforms and Databricks, focusing on scalable data pipelines and modern data engineering practices, while exploring AI/ML for advanced analytics.
-
 ---
 
 #### ⚙️ Technical Skills  
