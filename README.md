@@ -1,7 +1,7 @@
 <div align="center">
   
 # 👋 Hi, I'm Anagha Parkhi  
- <!--#### 🌟 DevOps & Cloud Engineer | Building data pipelines and transforming raw data into reliable, analytics-ready datasets for business insights. -->
+ #### 🌟 Building data pipelines and transforming raw data into reliable, analytics-ready datasets for business insights. 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Engineer;Data+Analyst" alt="Typing SVG" />
   </div>
 <br>
@@ -16,7 +16,8 @@
 </p> -->
 
 #### 💫 About Me  
-#### MSBA graduate and CSM-certified Business Intelligence Analyst with 5+ years of experience delivering data-driven insights. Skilled in SQL, KQL, Power BI, Tableau, and Excel, I build end-to-end data workflows, star-schema models, and dashboards for real-time business visibility.  
+#### MSBA graduate and CSM-certified Business Intelligence Analyst with 6+ years of experience delivering data-driven insights. Skilled in SQL, KQL, Power BI, Tableau, and Excel, I build end-to-end data workflows, star-schema models, and dashboards for real-time business visibility.  
+### [🌐 Check Out My Portfolio](https://anaghaparkhi.github.io/MyPortfolio/)
 
 #### 🌱 Currently Learning  
 #### Currently enhancing skills in cloud data platforms and Databricks, focusing on scalable data pipelines and modern data engineering practices, while exploring AI/ML for advanced analytics.
@@ -28,7 +29,25 @@
  - **📊 BI & Visualization:** Power BI, Tableau, Reporting Automation   
  - **🤖 Machine Learning:** Regression, Classification, Clustering (Scikit-learn), AI/ML Concepts 
  - **🧠 Emerging Skills:** Generative A
-   
+
+## 🛠 Skills
+Data Analysis & Visualization: 
+  - Power BI (DAX, Data Modeling, Dashboards), Tableau,  
+  - Excel (Pivot Tables, Power Query, Advanced Formulas)
+
+Programming & Querying: 
+  - SQL (Joins, CTEs, Window Functions, Data Extraction),
+  - Python (Pandas, NumPy, Data Cleaning)
+
+Data Engineering & Data Management: 
+  - ETL Pipelines, Data Modeling, Data Cleaning, Data Transformation, Data Warehousing Concepts
+
+Cloud & Tools: 
+  - Microsoft Azure (Data Services), Git/GitHub, CI/CD,  AI/ML workflows 
+
+Business & Analytics: 
+  - KPI Reporting, Business Intelligence, Ad-hoc Analysis, Stakeholder Reporting, Data Storytelling
+
 ---
 
 #### 🚀 Featured Projects  
@@ -70,3 +89,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaghaParkhi&layout=compact&theme=solarized-light)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnaghaParkhi&theme=solarized-light)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+---
+
+### ⭐ Always learning and exploring new ways to turn data into impactful decisions.
