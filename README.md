@@ -33,11 +33,11 @@
 
 #### 🚀 Featured Projects  
 
- - **🧩 Customer Churn Analysis Dashboard** – Interactive Power BI dashboard to analyze churn trends and improve retention strategies.  
-- **🩺 ER Healthcare Analysis** – Analyzed hospital data to uncover trends and optimize operations.  
+- <a href="https://github.com/AnaghaParkhi/churn_analysis">🧩 Customer Churn Analysis Dashboard</a> – Interactive Power BI dashboard to analyze churn trends and improve retention strategies.  
+- <a href="https://github.com/AnaghaParkhi/ER_analysis">🩺 ER Healthcare Analysis</a> – Analyzed hospital data to uncover trends and optimize operations.  
 - **🌍 Worldwide Energy Consumption Analysis** – Explored global energy usage patterns and visualized insights using Python.  
-- **👥 HR Analytics Dashboard** – Examined employee data for attrition, performance, and workforce trends.  
-- **🛒 Walmart Sales Analysis** – Identified sales trends, seasonality, and actionable business insights.
+- <a href="https://github.com/AnaghaParkhi/HR_Analytics">👥 HR Analytics Dashboard</a> – Examined employee data for attrition, performance, and workforce trends.  
+-  <a href="https://github.com/AnaghaParkhi/Walmart-Sales-Analysis">🛒 Walmart Sales Analysis </a> – Identified sales trends, seasonality, and actionable business insights.
 
 ---
 #### 📫 Connect With Me
@@ -64,6 +64,9 @@
 
 ---
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats
 
+![Anagha’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnaghaParkhi&show_icons=true&theme=solarized-light)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaghaParkhi&layout=compact&theme=solarized-light)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnaghaParkhi&theme=solarized-light)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
