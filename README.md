@@ -42,13 +42,13 @@
 
 ## 🚀 Featured Projects  
 
-### 1)🔹 <a href="https://github.com/AnaghaParkhi/churn_analysis">Customer Churn Analysis</a> ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=flat-square)  Repo:  
+### 1) <a href="https://github.com/AnaghaParkhi/churn_analysis">Customer Churn Analysis</a> ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=flat-square)
 
-## 2) 🔗 <a href="https://github.com/AnaghaParkhi/HR_Analytics"> HR Analytics Dashboard </a> ![Tableau](https://img.shields.io/badge/Tableau-Visualization-E97627?style=flat-square)     
+### 2) <a href="https://github.com/AnaghaParkhi/HR_Analytics"> HR Analytics Dashboard </a> ![Tableau](https://img.shields.io/badge/Tableau-Visualization-E97627?style=flat-square)     
 
-## 3) 🔗 <a href="https://github.com/AnaghaParkhi/ER_analysis">ER Analysis Dashboard ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=flat-square) </a>    
+### 3) <a href="https://github.com/AnaghaParkhi/ER_analysis">ER Analysis Dashboard ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=flat-square) </a>    
 
-## 4) 🔗 <a href="https://github.com/AnaghaParkhi/Walmart-Sales-Analysis"> Walmart Sales Analysis ![Power BI](https://img.shields.io/badge/Power%20BI-Sales%20Analysis-F2C811?style=flat-square) </a> 
+### 4) <a href="https://github.com/AnaghaParkhi/Walmart-Sales-Analysis"> Walmart Sales Analysis ![Tableau](https://img.shields.io/badge/Tableau-Sales%20Analysis-F2C811?style=flat-square) </a> 
 
 <!--
 ## 🛠 Skills
@@ -90,14 +90,6 @@ Business & Analytics:
 
 ---
 
-
----
-## 📫 Connect With Me
-💼 <a href="https://www.linkedin.com/in/anaghaparkhi/">**LinkedIn**<a>  | 🌐<a href="https://anaghaparkhi.github.io/MyPortfolio/">**Portfolio**</a>
- | 💻<a href="https://github.com/AnaghaParkhi">**GitHub**</a>  | 📧<a href="anagha.parkhi@outlook.com">**Email**</a>  | ✍️ <a href="">**Medium**</a> 
-
----
-
 ## 💻 Tech Stack:
 #### Data Analysis & Visualization
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
@@ -106,13 +98,12 @@ Business & Analytics:
 ![MySQL](https://img.shields.io/badge/Excel-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/Python-D97757.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
-#### Business Intelligence & Analytics
-<p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
-</p>
+### Business Intelligence & Analytics
+![Ci/CD](https://img.shields.io/badge/CI/CD-CC2927?style=for-the-badge&logo=CI%20CD&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-F2C811?style=for-the-badge&logo=ETL&logoColor=black) 
+![KPI](https://img.shields.io/badge/KPI-%230072C6.svg?style=for-the-badge&logo=KPI&logoColor=white)
+![A/B_Testing](https://img.shields.io/badge/A/B_Testing-D97757.svg?style=for-the-badge&logo=A/B_Testing&logoColor=white) 
+
 
 ---
 
