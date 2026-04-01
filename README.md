@@ -27,28 +27,50 @@
   Skilled in SQL, KQL, Power BI, Tableau, and Excel, I build end-to-end data workflows, star-schema models, and dashboards for real-time business visibility. 
 </p>
 
-
 ## [🌐 Check Out My Portfolio](https://anaghaparkhi.github.io/MyPortfolio/)
 
-
 ## 🌱 Currently Learning  
-####
 <p>
   Currently enhancing skills in cloud data platforms and Databricks, focusing on scalable data pipelines and modern data engineering practices, while exploring AI/ML for advanced analytics.
 </p>
 </p>
 
----
+### 🚀 Projects 
+Here are some projects you’ve worked on:  
+  1) **<a href="https://github.com/AnaghaParkhi/churn_analysis">Customer Churn Analysis</a>** (Excel,Power BI,DAX)   
+  2) **<a href="https://github.com/AnaghaParkhi/HR_Analytics">HR Analytics Dashboard </a>** (Excel,Power BI, DAX)   
+  3) **<a href="https://github.com/AnaghaParkhi/ER_analysis">ER Analysis Dashboard</a>** (Excel,Tableau)  
+  4) **<a href="https://github.com/AnaghaParkhi/Walmart-Sales-Analysis"> Walmart Sales Analysis </a>** (Excel,Tableau)
 
-## 🚀 Featured Projects  
 
-### 1) <a href="https://github.com/AnaghaParkhi/churn_analysis">Customer Churn Analysis</a> ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=flat-square)
+### 💼 What I Can Do 
+   🔹 Clean and transform raw datasets using Python and Excel.  
+   🔹 Write SQL queries to extract, clean, and analyze data from multiple sources.  
+   🔹 Build interactive dashboards using Tableau and Power BI for KPI tracking and reporting  
+   🔹 Perform customer segmentation and sales trend analysis  
+   🔹 Create end-to-end data analysis projects from raw data to visual insights  
+   🔹 Collaborating with cross-functional teams to translate business needs into analytical solutions
 
-### 2) <a href="https://github.com/AnaghaParkhi/HR_Analytics"> HR Analytics Dashboard </a> ![Tableau](https://img.shields.io/badge/Tableau-Visualization-E97627?style=flat-square)     
 
-### 3) <a href="https://github.com/AnaghaParkhi/ER_analysis">ER Analysis Dashboard ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=flat-square) </a>    
+## 📌 Skills
+  #### 💻 Languages & Querying  
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-### 4) <a href="https://github.com/AnaghaParkhi/Walmart-Sales-Analysis"> Walmart Sales Analysis ![Tableau](https://img.shields.io/badge/Tableau-Sales%20Analysis-F2C811?style=flat-square) </a> 
+#### 📊 Data Visualization  & version Control
+  ![Excel](https://img.shields.io/badge/Excel-0078D4?style=for-the-badge&logo=Excel&logoColor=white)
+  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+  ![Looker](https://img.shields.io/badge/Looker-543DE0?style=for-the-badge&logo=Looker&logoColor=black)
+  ![Jupyter](https://img.shields.io/badge/Jupyter-B4393C?style=for-the-badge&logo=Jupyter&logoColor=white)
+  ![GIT](https://img.shields.io/badge/GIT-FA520F?style=for-the-badge&logo=GIT&logoColor=white)
+
+#### ☁️ Cloud & Data Engineering
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-Pipelines-lightgrey?style=for-the-badge)
+
 
 <!--
 ## 🛠 Skills
@@ -69,7 +91,7 @@
  - **📊 BI & Visualization:** Power BI, Tableau, Reporting Automation   
  - **🤖 Machine Learning:** Regression, Classification, Clustering (Scikit-learn), AI/ML Concepts 
  - **🧠 Emerging Skills:** Generative A
--->
+
 ## 🛠 Skills
 Data Analysis & Visualization: 
   - Power BI (DAX, Data Modeling, Dashboards), Tableau,  
@@ -87,8 +109,7 @@ Cloud & Tools:
 
 Business & Analytics: 
   - KPI Reporting, Business Intelligence, Ad-hoc Analysis, Stakeholder Reporting, Data Storytelling
-
----
+-->
 
 ## 💻 Tech Stack:
 #### Data Analysis & Visualization
@@ -104,9 +125,6 @@ Business & Analytics:
 ![KPI](https://img.shields.io/badge/KPI-%230072C6.svg?style=for-the-badge&logo=KPI&logoColor=white)
 ![A/B_Testing](https://img.shields.io/badge/A/B_Testing-D97757.svg?style=for-the-badge&logo=A/B_Testing&logoColor=white) 
 
-
----
-
 ## 📊 GitHub Stats
 
 ![Anagha’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnaghaParkhi&show_icons=true&theme=solarized-light)
@@ -114,6 +132,9 @@ Business & Analytics:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnaghaParkhi&theme=solarized-light)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
----
+⭐ Always learning and exploring new ways to turn data into impactful decisions. 
 
-### ⭐ Always learning and exploring new ways to turn data into impactful decisions.
+<div align="center">
+ 
+## 💻 Check Out My Repos ⬇️
+</div>
