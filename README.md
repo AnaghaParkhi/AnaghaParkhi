@@ -38,9 +38,9 @@
 ### 🚀 Projects 
 Here are some projects you’ve worked on:  
      1) **<a href="https://github.com/AnaghaParkhi/churn_analysis">Customer Churn Analysis</a>** (Excel,Power BI,DAX)   
-     2) **<a href="https://github.com/AnaghaParkhi/HR_Analytics">HR Analytics Dashboard </a>** (Excel,Power BI, DAX)   
-     3) **<a href="https://github.com/AnaghaParkhi/ER_analysis">ER Analysis Dashboard</a>** (Excel,Tableau)  
-     4) **<a href="https://github.com/AnaghaParkhi/Walmart-Sales-Analysis"> Walmart Sales Analysis </a>** (Excel,Tableau)
+     2) **<a href="https://github.com/AnaghaParkhi/HR_Analytics">HR Analytics Dashboard </a>** (Tableau, SQL,Excel)   
+     3) **<a href="https://github.com/AnaghaParkhi/ER_analysis">ER Analysis Dashboard</a>** (Excel,Power BI)  
+     4) **<a href="https://github.com/AnaghaParkhi/Walmart-Sales-Analysis"> Walmart Sales Analysis </a>** (SQL,Tableau, Excel)
 
 
 ### 💼 What I Can Do 
