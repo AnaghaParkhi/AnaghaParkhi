@@ -61,9 +61,12 @@ Here are some projects you’ve worked on:
 
 #### ☁️ Cloud & Data Engineering
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL-Pipelines-lightgrey?style=for-the-badge)
+
+
 
 ⭐ Always learning and exploring new ways to turn data into impactful decisions. 
+![](https://api.visitorbadge.io/api/VisitorHit?user=AnaghaParkhif&repo=AnaghaParkhi-visitors-badge&countColor=%237B1E7A)
+
 
 <div align="center">
  
