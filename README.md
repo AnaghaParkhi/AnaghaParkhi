@@ -39,6 +39,7 @@ Here are some projects you’ve worked on:
      2) **<a href="https://github.com/AnaghaParkhi/HR_Analytics">HR Analytics Dashboard </a>** (Tableau, SQL,Excel)   
      3) **<a href="https://github.com/AnaghaParkhi/ER_analysis">ER Analysis Dashboard</a>** (Excel,Power BI)  
      4) **<a href="https://github.com/AnaghaParkhi/Walmart-Sales-Analysis"> Walmart Sales Analysis </a>** (SQL,Tableau, Excel)
+     5) **<a href="https://github.com/AnaghaParkhi/Sales_Analysis"> Ecommerce Sales Analysis </a>** (Advance Excel, Power Pivot)
 
 
 ### 💼 What I Can Do 
