@@ -25,7 +25,8 @@
        MSBA graduate and CSM-certified Business Intelligence Analyst with 6+ years of experience delivering data-driven insights.
     Skilled in SQL, KQL, Power BI, Tableau, and Excel, I build end-to-end data workflows, star-schema models, and dashboards for real-time business visibility. 
     </p>
-
+ 💼 Tools: Excel (Advanced) | SQL | Power BI | KQL | Tableau | Azure | Cosmos DB | Microsoft Fabric (Learning) | ETL/ELT Pipelines | Data Modeling
+ 
    ## [🌐 Check Out My Portfolio](https://anaghaparkhi.github.io/MyPortfolio/)
    ## 🌱 Currently Learning  
 <p>
