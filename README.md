@@ -9,7 +9,7 @@
 <p align="center">
  <a href="https://linkedin.com/in/anaghaparkhi"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://anaghaparkhi.github.io/MyPortfolio/"><img src="https://img.shields.io/badge/Portfolio-B4393C?style=for-the-badge&logo=AP"></a>
-  <a href="mailto:anagha.parkhi25@outlook.com"><img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail"></a>
+  <a href="https://medium.com/@anaghapathak2008"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium"></a>
   <a href="https://public.tableau.com/app/profile/anaghaparkhi/vizzes"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau"></a>
 </p> 
 
