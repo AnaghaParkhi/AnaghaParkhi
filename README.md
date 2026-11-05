@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Anagha Parkhi  
  #### 🌟 Building data pipelines and transforming raw data into reliable, analytics-ready datasets for business insights. 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Engineer;Data+Analyst" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Cloud+Data+Engineer;BI+Analyst" alt="Typing SVG" />
   </div>
 <br>
  
